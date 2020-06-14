@@ -1,11 +1,25 @@
 #####
-# I: head of a linked list where each node has a pointer to the next node and a pointer to a random node in the set
-# O: head to a deep copy of the list
-# C: -1000 <= Node.val <= 1000 num nodes < 1000
-# E: can be given null for head node
+# Input      : head of a linked list where each node has a pointer to the next node and a pointer to a random node in the set
+# Output     : head to a deep copy of the list
+# Constraint : -1000 <= Node.val <= 1000 num nodes < 1000
+# Edge cases : can be given null for head node
 #####
+
+
+'''
+Method 1:
+    run through list one time and save a copy of each node in a dictionary
+    run through a second time to set the random pointer and next pointer
+
+Method 2:
+    run through list one time and utilize a defaultdict(lambda: Node(0)) to create list nodes on referencing 
+        we can now set create a copy of a node and point to a random node not created like this nodeDict[m].random = nodeDict[m.random]
+        once we have run through the full list we can be sure that anynodes that were created on reference with the dfault dict class have their value and next set 
+        
+Both of these methods can be run in O(N) space (creating a copy) and O(N) time (runs through list one or two times)
+
+'''
 # Definition for a Node.
-from collections import defaultdict
 
 
 class Node:
