@@ -22,6 +22,9 @@ Both of these methods can be run in O(N) space (creating a copy) and O(N) time (
 # Definition for a Node.
 
 
+from collections import defaultdict
+
+
 class Node:
     def __init__(self, x, next=None, random=None):
         self.val = int(x)
