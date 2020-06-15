@@ -79,6 +79,7 @@ class Solution(object):
             nodeDict[m].next = nodeDict[m.next]
             nodeDict[m].random = nodeDict[m.random]
             m = m.next
+        return nodeDict[head]
 
 
 y = Solution().copyRandomList(node1)
