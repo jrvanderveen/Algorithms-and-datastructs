@@ -19,4 +19,10 @@ Interesting leetcode or hacker rank problems
         Given linked lists representing two numbers return a linked list representing their sum
       </li>
      </ul>
+  <li>Median of two sorted arrays</li>
+    <ul>
+      <li>
+        Given two sorted arrays return the median value.
+      </li>
+     </ul>
 </ul>
