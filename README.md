@@ -25,4 +25,10 @@ Interesting leetcode or hacker rank problems
         Given two sorted arrays return the median value.
       </li>
      </ul>
+  <li>Merge K Sorted Lists</li>
+    <ul>
+      <li>
+        Given a list of k sorted lists return it as one sorted list.
+      </li>
+    </ul>
 </ul>
