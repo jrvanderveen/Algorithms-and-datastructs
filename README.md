@@ -31,4 +31,10 @@ Interesting leetcode or hacker rank problems
         Given a list of k sorted lists return it as one sorted list.
       </li>
     </ul>
+  <li>Favorite Genres</li>
+    <ul>
+      <li>
+        Given a map of {userName: [songs]} and a map of {genres: [songs]} return a map of {userName: [favorite genres in sorted order]}
+      </li>
+    </ul>
 </ul>
