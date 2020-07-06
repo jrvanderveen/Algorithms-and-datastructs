@@ -37,4 +37,10 @@ Interesting leetcode or hacker rank problems
         Given a map of {userName: [songs]} and a map of {genres: [songs]} return a map of {userName: [favorite genres in sorted order]}
       </li>
     </ul>
+  <li>Spiral Matrix</li>
+    <ul>
+      <li>
+        Given a positive integer n, generate a square matrix filled with elements from 1 to n^2 in spiral order.
+      </li>
+    </ul>
 </ul>
