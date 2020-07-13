@@ -1,5 +1,7 @@
 # Algorithms-and-datastructs (Interview Prep)
+
 Interesting leetcode or hacker rank problems
+
 <ul>
   <li>Deep Copy</li>
     <ul>
@@ -41,6 +43,12 @@ Interesting leetcode or hacker rank problems
     <ul>
       <li>
         Given a positive integer n, generate a square matrix filled with elements from 1 to n^2 in spiral order.
+      </li>
+    </ul>
+  <li>Trapping Rain Water</li>
+    <ul>
+      <li>
+        Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
       </li>
     </ul>
 </ul>
