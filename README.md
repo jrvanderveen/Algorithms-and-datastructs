@@ -69,4 +69,10 @@ Interesting leetcode or hacker rank problems
         Given four lists A, B, C, D of integer values, compute how many tuples (i, j, k, l) there are such that A[i] + B[j] + C[k] + D[l] is zero.
       </li>
     </ul>
+  <li>First Unique Character in a String</li>
+    <ul>
+      <li>
+        Given a string, find the first non-repeating character in it and return its index. If it doesn't exist, return -1.
+      </li>
+    </ul>
 </ul>
