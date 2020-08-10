@@ -75,4 +75,10 @@ Interesting leetcode or hacker rank problems
         Given a string, find the first non-repeating character in it and return its index. If it doesn't exist, return -1.
       </li>
     </ul>
+  <li>Palindromic Substrings</li>
+    <ul>
+      <li>
+        Given a string, your task is to count how many palindromic substrings in this string.
+      </li>
+    </ul>
 </ul>
