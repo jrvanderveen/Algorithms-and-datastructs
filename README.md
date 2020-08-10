@@ -50,11 +50,13 @@ Interesting leetcode or hacker rank problems
       <li>
         Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
       </li>
+    </ul>
   <li>Longest Substring with At Least K Repeating Characters</li>
     <ul>
       <li>
         Find the length of the longest substring T of a given string (consists of lowercase letters only) such that every character in T appears no less than k times.
       </li>
+    </ul>
   <li>Wiggle Sort II</li>
     <ul>
       <li>
