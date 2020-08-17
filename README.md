@@ -81,4 +81,10 @@ Interesting leetcode or hacker rank problems
         Given a string, your task is to count how many palindromic substrings in this string.
       </li>
     </ul>
+  <li>Merge Two Binary Trees</li>
+    <ul>
+      <li>
+        Given two binary trees and imagine that when you put one of them to cover the other, some nodes of the two trees are overlapped while the others are not.
+      </li>
+    </ul>
 </ul>
